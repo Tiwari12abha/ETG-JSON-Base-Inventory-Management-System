@@ -1,0 +1,2 @@
+# ETG-JSON-Base-Inventory-Management-System
+In this project will give to the customer discount offer for Diwali festival . We will gives to costumer all list of data having discount so he can easy select product id number &amp; numbers of item that purchase , we will give to costumer &amp; also gives bill records of shopping &amp; also store all selling item in sell_record file for backup purpose.  
