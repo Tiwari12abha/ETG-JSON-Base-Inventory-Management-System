@@ -1,0 +1,217 @@
+{
+    "101": {
+        "ProductName": "Saree",
+        "Price": 3000,
+        "Color": "Red",
+        "discount": "80%",
+        "Material": "Pur Cotten"
+    },
+    "102": {
+        "ProductName": "Jumpsuit",
+        "Price": 1200,
+        "Color": "Brown",
+        "discount": "10%",
+        "Size": "Medium"
+    },
+    "103": {
+        "ProductName": "Gines",
+        "Price": 1700,
+        "Color": "Black",
+        "discount": "20%",
+        "Size": "Large"
+    },
+    "104": {
+        "ProductName": "Dangry",
+        "Price": 2100,
+        "Color": "Blue",
+        "discount": "30%",
+        "Size": "Medium"
+    },
+    "105": {
+        "ProductName": "T-shirt",
+        "Price": 800,
+        "Color": "White",
+        "discount": "10%",
+        "Size": "Large"
+    },
+    "106": {
+        "ProductName": "Pant",
+        "Price": 500,
+        "Color": "Blue",
+        "discount": "20%",
+        "Size": "X-Large"
+    },
+    "107": {
+        "ProductName": "Saree",
+        "Price": 4000,
+        "Color": "Black",
+        "discount": "50%",
+        "Material": "Silk"
+    },
+    "108": {
+        "ProductName": "suit",
+        "Price": 1500,
+        "Color": "Green",
+        "discount": "10%",
+        "Size": "Medium"
+    },
+    "109": {
+        "ProductName": "Western Top",
+        "Price": 1000,
+        "Color": "Pink",
+        "discount": "30%",
+        "Size": "Small"
+    },
+    "110": {
+        "ProductName": "Bed sheet",
+        "Price": 1900,
+        "Color": "Brown",
+        "discount": "55%",
+        "Material": "Cotten"
+    },
+    "111": {
+        "ProductName": "Belly",
+        "Price": 1800,
+        "Color": "Brown",
+        "discount": "40%",
+        "Size": "IND-6"
+    },
+    "112": {
+        "ProductName": "Night suit",
+        "Price": 900,
+        "Color": "Brown",
+        "discount": "30%",
+        "Size": "large",
+        "Gen": "Man"
+    },
+    "113": {
+        "ProductName": "Night suit",
+        "Price": 1000,
+        "Color": "Brown",
+        "discount": "10%",
+        "Size": "Medium",
+        "Gen": "Femal"
+    },
+    "114": {
+        "ProductName": "Shorts",
+        "Price": 1200,
+        "Color": "Multicolor",
+        "discount": "50%",
+        "Size": "Medium"
+    },
+    "115": {
+        "ProductName": "Frocks",
+        "Price": 1700,
+        "Color": "Red",
+        "discount": "10%",
+        "Size": "Small"
+    },
+    "116": {
+        "ProductName": "Belly",
+        "Price": 900,
+        "Color": "Maroon",
+        "discount": "10%",
+        "Size": "IND-5"
+    },
+    "117": {
+        "ProductName": "Hoodie",
+        "Price": 2300,
+        "Color": "Gray",
+        "discount": "60%",
+        "Size": "small"
+    },
+    "118": {
+        "ProductName": "Top & Skirt",
+        "Price": 1400,
+        "Color": "Red & Black",
+        "discount": "40%",
+        "Size": "Small"
+    },
+    "119": {
+        "ProductName": "Watch",
+        "Price": 2500,
+        "Color": "Pink",
+        "discount": "10%",
+        "Gen": "Femal"
+    },
+    "120": {
+        "ProductName": "Watch",
+        "Price": 2400,
+        "Color": "Brown",
+        "discount": "20%",
+        "Gen": "Man"
+    },
+    "121": {
+        "ProductName": "Sweaters",
+        "Price": 999,
+        "Color": "Royal Blue",
+        "discount": "80%",
+        "Size": "Small"
+    },
+    "122": {
+        "ProductName": "Shirt",
+        "Price": 1299,
+        "Color": "Brown",
+        "discount": "10%",
+        "Size": "large",
+        "Gen": "Man"
+    },
+    "123": {
+        "ProductName": "Shirt",
+        "Price": 1999,
+        "Color": "Grey",
+        "discount": "30%",
+        "Size": "Medium",
+        "Gen": "Femal"
+    },
+    "124": {
+        "ProductName": "kurta",
+        "Price": 500,
+        "Color": "Brown",
+        "discount": "10%",
+        "Size": "Large"
+    },
+    "125": {
+        "ProductName": "Kurti",
+        "Price": 1200,
+        "Color": "Yellow",
+        "discount": "30%",
+        "Size": "Small"
+    },
+    "126": {
+        "ProductName": "Hoodie",
+        "Price": 2200,
+        "Color": "Orange",
+        "discount": "60%",
+        "Size": "X-large"
+    },
+    "127": {
+        "ProductName": "Gawon",
+        "Price": 2900,
+        "Color": "",
+        "discount": "50%",
+        "Size": "Small",
+        "Sleeve length": "Sleeveless"
+    },
+    "128": {
+        "ProductName": "Towel",
+        "Price": 200,
+        "Color": "Brown",
+        "discount": "20%",
+        "Size": "Medium"
+    },
+    "129": {
+        "ProductName": "lehenga",
+        "Price": 3500,
+        "Color": "Red",
+        "discount": "70%",
+        "Size": "Medium"
+    },
+    "130": {
+        "ProductName": "Plazoo & Kurti",
+        "Price": 3200,
+        "Color": "Yellow & Gray",
+        "discount": "40%",
+        "Size": "Medium"
+    }
+}

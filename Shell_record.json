@@ -1,0 +1,23 @@
+Numbers of item purchase : 2								Sat Sep  4 14:20:01 2021
+{"30000": {"ProductName": "", "Price": 200, "Color": "Brown", "discount": "20%", "Size": "Medium"}}
+					Total Amount :  320.0
+
+Numbers of item purchase : 5								Sat Sep  4 14:20:25 2021
+{"30001": {"ProductName": "Western Top", "Price": 1000, "Color": "Pink", "discount": "30%", "Size": "Small"}}
+					Total Amount :  3500.0
+
+Numbers of item purchase : 3								Sat Sep  4 14:24:24 2021
+{"30000": {"ProductName": "Bed sheet", "Price": 1900, "Color": "Brown", "discount": "55%", "Material": "Cotten"}}
+					Total Amount :  2565.0
+
+Numbers of item purchase : 5								Sat Sep  4 14:24:35 2021
+{"30001": {"ProductName": "Shirt", "Price": 1299, "Color": "Brown", "discount": "10%", "Size": "large", "Gen": "Man"}}
+					Total Amount :  5845.5
+
+Numbers of item purchase : 7								Sat Sep  4 14:24:50 2021
+{"30002": {"ProductName": "Plazoo & Kurti", "Price": 3200, "Color": "Yellow & Gray", "discount": "40%", "Size": "Medium"}}
+					Total Amount :  13440.0
+
+------------------------------------------------------------------------
+				 Total Numbers of item purchase : 15
+
