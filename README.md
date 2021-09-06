@@ -13,5 +13,5 @@ In this project will give to the customer discount offer for Diwali festival . W
 7)time.ctime()
 ## File name
 1)product_record.json
-2)Shell_record.json
+2)Sales_record.json
 
